@@ -4,7 +4,7 @@
 # 👋 Hey, I'm Sai Vamshi  
 
 💻 *Full-Stack Developer | Blockchain Explorer | AI Enthusiast*  
-📍 Hyderabad, India | 🎓 CSE @ SIT Hyderabad (2026)  
+📍 Hyderabad, India | 🎓 CSE @ SIET Hyderabad (2026)  
 
 ---
 
