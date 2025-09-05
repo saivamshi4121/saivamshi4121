@@ -76,9 +76,18 @@
 - 🚀 Founder of **Student Tech Community**  
 - 🎮 Think of coding as a game — each project = a new level  
 
+## 🌟 Interesting Facts & Connect
+
+### 🎯 Fun Facts About Me
+- 🏆 Hackathon enthusiast – multiple state & national-level wins  
+- 💡 Always exploring new tech stacks and dApps  
+- ☕ Late-night coder fueled by chai & curiosity  
+- 🚀 Founder of **Student Tech Community**  
+- 🎮 Think of coding as a game — each project = a new level  
+
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-vamshi-328035282/" target="_blank">
+  <a href="https://www.linkedin.com/in/saivamshi-webdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/saivamshi4121" target="_blank">
