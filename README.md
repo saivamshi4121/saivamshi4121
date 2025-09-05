@@ -67,24 +67,28 @@
 
 ---
 
-## 🎮 Level Up Progress
+## 🌟 Interesting Facts & Connect
 
+### 🎯 Fun Facts About Me
+- 🏆 Hackathon enthusiast – multiple state & national-level wins  
+- 💡 Always exploring new tech stacks and dApps  
+- ☕ Late-night coder fueled by chai & curiosity  
+- 🚀 Founder of **Student Tech Community**  
+- 🎮 Think of coding as a game — each project = a new level  
+
+### 🔗 Connect With Me
 <p align="center">
-  <b>Palamuri Sai Vamshi 🚀</b> – Player 1
+  <a href="https://www.linkedin.com/in/sai-vamshi-328035282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/saivamshi4121" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:palamurivamshi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  🏁 Level 1: HTML & CSS ✅<br>
-  🏁 Level 2: JavaScript & Node.js ✅<br>
-  🏁 Level 3: React & Next.js ✅<br>
-  🏁 Level 4: Express.js & MongoDB ⚡ In Progress<br>
-  🏁 Level 5: Blockchain & dApps ⏳ Unlocking Soon
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/XP-4800-blue?style=for-the-badge&logo=appveyor" alt="XP"/>
-  <img src="https://img.shields.io/badge/Achievements-15-brightgreen?style=for-the-badge" alt="Achievements"/>
-</p>
 
 
 
