@@ -54,27 +54,7 @@
 ## 🏆 Milestones & Achievements  
 <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;"> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🥉<br> <b>3rd Place</b><br> National Hackathon </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🏅<br> Top Ranks<br> Multiple Hackathons </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🌍<br> Contributor<br> SSOC (Social Summer of Code) </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 📜<br> Certified<br> AWS & Algorand Blockchain </div> </div>
 
----
 
-## 🎮 Fun Zone
-
-- 🎯 **Code Boss Mode:** Every project is a new level, every bug is a mini-boss, and pull requests are the final raid.  
-- ☕ **Debug Fuel:** Powered by chai ☕, coffee ☕, and sheer determination during late-night coding sprints.  
-- 🌱 **Growth Loop:** `Build → Break → Optimize → Repeat` — my personal dev lifecycle.  
-- 🚀 **Experiment Lab:** Trying out wild tech stacks like a mad scientist ⚗️ — sometimes it blows up, sometimes it flies.  
-- 🕹️ **Gamified Workflow:** Tasks = quests, commits = XP, and merges = loot drops.  
-
-
----
-
-## 🌟 Interesting Facts & Connect
-
-### 🎯 Fun Facts About Me
-- 🏆 Hackathon enthusiast – multiple state & national-level wins  
-- 💡 Always exploring new tech stacks and dApps  
-- ☕ Late-night coder fueled by chai & curiosity  
-- 🚀 Founder of **Student Tech Community**  
-- 🎮 Think of coding as a game — each project = a new level  
 
 ## 🌟 Interesting Facts & Connect
 
@@ -97,11 +77,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-
-
-
-
 ---
 
 <!-- Footer Banner -->
