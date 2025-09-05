@@ -36,10 +36,7 @@
 ---
 
 ## 🚀 Highlight Projects  
-🔹 **SkillVerse** – Algorand DApp for peer-to-peer skill exchange  
-🔹 **Warehouse Management (MERN)** – Real-time inventory with analytics  
-🔹 **Event Management System** – Secure booking + geo-filters  
-🔹 **Swayamsevak Connect** – MERN app for community coordination  
+<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;"> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:250px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🌐<br> <b>SkillVerse</b><br> Algorand DApp for peer-to-peer skill exchange </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:250px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 📦<br> <b>Warehouse Management (MERN)</b><br> Real-time inventory tracking with analytics </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:250px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🎟️<br> <b>Event Management System</b><br> Secure booking platform + geo-filters </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:250px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🤝<br> <b>Swayamsevak Connect</b><br> MERN app for community coordination </div> </div>
 
 ---
 
