@@ -23,15 +23,25 @@
 
 ---
 
-## 📊 Stats Zone  
+## 📊 Stats & Tech Zone
+
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=saivamshi4121&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivamshi4121&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamshi4121&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
+<p align="center">
+  <!-- Custom Tech Stack -->
+  <b>⚡ Most Used Tech:</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,js" />
+</p>
+
 
 
 ---
