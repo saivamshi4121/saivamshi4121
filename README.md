@@ -35,58 +35,10 @@
 
 ---
 
-## 🚀 Highlight Projects  
+
 ## 🚀 Highlight Projects
 
-<div align="center" style="position:relative;">
-
-  <!-- Animated Gradient Background -->
-  <div style="position:absolute; width:100%; height:100%; top:0; left:0; z-index:-1; overflow:hidden; border-radius:25px;">
-    <div style="position:absolute; width:150%; height:150%; background:linear-gradient(45deg,#FF5733,#900C3F,#FF8D1A,#FFC300); animation: slidebg 25s linear infinite;"></div>
-  </div>
-
-  <!-- Cards Container -->
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; padding:30px;">
-
-    <!-- Card 1 -->
-    <div style="background:rgba(30,30,47,0.95); backdrop-filter:blur(10px); border-radius:20px; width:260px; padding:25px; color:white; box-shadow:0 15px 25px rgba(0,0,0,0.3); text-align:center; transition: transform 0.4s;">
-      <h3>🌐 SkillVerse</h3>
-      <p style="font-size:14px; margin-top:10px;">Algorand DApp for peer-to-peer skill exchange</p>
-    </div>
-
-    <!-- Card 2 -->
-    <div style="background:rgba(30,30,47,0.95); backdrop-filter:blur(10px); border-radius:20px; width:260px; padding:25px; color:white; box-shadow:0 15px 25px rgba(0,0,0,0.3); text-align:center; transition: transform 0.4s;">
-      <h3>📦 Warehouse Management</h3>
-      <p style="font-size:14px; margin-top:10px;">Real-time inventory tracking with analytics</p>
-    </div>
-
-    <!-- Card 3 -->
-    <div style="background:rgba(30,30,47,0.95); backdrop-filter:blur(10px); border-radius:20px; width:260px; padding:25px; color:white; box-shadow:0 15px 25px rgba(0,0,0,0.3); text-align:center; transition: transform 0.4s;">
-      <h3>🎟️ Event Management</h3>
-      <p style="font-size:14px; margin-top:10px;">Secure booking platform + geo-filters</p>
-    </div>
-
-    <!-- Card 4 -->
-    <div style="background:rgba(30,30,47,0.95); backdrop-filter:blur(10px); border-radius:20px; width:260px; padding:25px; color:white; box-shadow:0 15px 25px rgba(0,0,0,0.3); text-align:center; transition: transform 0.4s;">
-      <h3>🤝 Swayamsevak Connect</h3>
-      <p style="font-size:14px; margin-top:10px;">MERN app for community coordination</p>
-    </div>
-
-  </div>
-</div>
-
-<!-- CSS Animation -->
-<style>
-@keyframes slidebg {
-  0% { transform: translateX(0) translateY(0); }
-  50% { transform: translateX(-25%) translateY(-25%); }
-  100% { transform: translateX(0) translateY(0); }
-}
-
-div[style*="transition: transform"]:hover {
-  transform: scale(1.05);
-}
-</style>
+<p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;"> <!-- Card 1 --> <img src="https://via.placeholder.com/260x150/FF5733/FFFFFF?text=🌐+SkillVerse" alt="SkillVerse" style="border-radius:15px; margin:5px;"/> <!-- Card 2 --> <img src="https://via.placeholder.com/260x150/900C3F/FFFFFF?text=📦+Warehouse+Management" alt="Warehouse Management" style="border-radius:15px; margin:5px;"/> <!-- Card 3 --> <img src="https://via.placeholder.com/260x150/FF8D1A/FFFFFF?text=🎟️+Event+Management" alt="Event Management" style="border-radius:15px; margin:5px;"/> <!-- Card 4 --> <img src="https://via.placeholder.com/260x150/FFC300/FFFFFF?text=🤝+Swayamsevak+Connect" alt="Swayamsevak Connect" style="border-radius:15px; margin:5px;"/> </p>
 
 ## 🏆 Milestones & Achievements  
 <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;"> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🥉<br> <b>3rd Place</b><br> National Hackathon </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🏅<br> Top Ranks<br> Multiple Hackathons </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🌍<br> Contributor<br> SSOC (Social Summer of Code) </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 📜<br> Certified<br> AWS & Algorand Blockchain </div> </div>
