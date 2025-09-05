@@ -67,15 +67,23 @@
 
 ---
 
-## 🐍 Tech Snake
+## 🎮 Level Up Progress
 
 <p align="center">
-  <!-- Snake path simulation with tech icons -->
-  <img src="https://raw.githubusercontent.com/palamurisaivamshi/palamurisaivamshi/output/github-contribution-grid-snake.svg" alt="Tech Snake" width="500"/>
+  <b>Palamuri Sai Vamshi 🚀</b> – Player 1
 </p>
 
 <p align="center">
-💻 Technologies: React 🟦 → Node.js 🟩 → Express.js ⬛ → MongoDB 🟩 → Next.js ⬛ → JavaScript 🟨
+  🏁 Level 1: HTML & CSS ✅<br>
+  🏁 Level 2: JavaScript & Node.js ✅<br>
+  🏁 Level 3: React & Next.js ✅<br>
+  🏁 Level 4: Express.js & MongoDB ⚡ In Progress<br>
+  🏁 Level 5: Blockchain & dApps ⏳ Unlocking Soon
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XP-4800-blue?style=for-the-badge&logo=appveyor" alt="XP"/>
+  <img src="https://img.shields.io/badge/Achievements-15-brightgreen?style=for-the-badge" alt="Achievements"/>
 </p>
 
 
