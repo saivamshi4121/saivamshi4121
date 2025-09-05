@@ -44,10 +44,7 @@
 ---
 
 ## 🏆 Milestones & Achievements  
-- 🥉 **3rd Place** – National Hackathon  
-- 🏅 Top ranks at **multiple hackathons**  
-- 🌍 Contributor – **SSOC (Social Summer of Code)**  
-- 📜 **AWS Certified** + **Algorand Blockchain Certified**  
+<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;"> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🥉<br> <b>3rd Place</b><br> National Hackathon </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🏅<br> Top Ranks<br> Multiple Hackathons </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🌍<br> Contributor<br> SSOC (Social Summer of Code) </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 📜<br> Certified<br> AWS & Algorand Blockchain </div> </div>
 
 ---
 
