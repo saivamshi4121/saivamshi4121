@@ -1,77 +1,67 @@
-# 👋 Hey there, I'm Palamuri Sai Vamshi  
+<!-- Profile Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=200&section=header&text=Palamuri%20Sai%20Vamshi%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-💡 *Innovative Computer Science Student | Full-Stack Developer | Blockchain Enthusiast*  
+# 👋 Hey, I'm Sai Vamshi  
 
-📍 Hyderabad, India | 🎓 B.Tech CSE @ SIT Hyderabad (2026)  
-
----
-
-## 🔥 About Me  
-- 🚀 4th Year CSE student passionate about **building scalable solutions**  
-- 💻 Skilled in **MERN, Next.js, Blockchain (Algorand), and Cloud (AWS, Firebase)**  
-- 🌍 Open to collaborations on **Full-Stack, Blockchain, and AI-driven projects**  
-- 🏆 Hackathon enthusiast with multiple **national/state-level wins**  
+💻 *Full-Stack Developer | Blockchain Explorer | AI Enthusiast*  
+📍 Hyderabad, India | 🎓 CSE @ SIT Hyderabad (2026)  
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Java, C, JavaScript, SQL  
-**Web Dev:** Next.js, MERN (MongoDB, Express, React, Node), PHP, WordPress, Bootstrap  
-**Frameworks:** Angular, React.js, Node.js, Spring Boot  
-**Databases:** MySQL, MongoDB  
-**Cloud:** AWS (EC2, S3, Lambda), Firebase  
-**Blockchain:** Algorand, Smart Contracts  
-**Tools:** Git, GitHub  
+## ✨ About Me  
+🔹 Passionate about **scalable web apps, cloud, and blockchain dApps**  
+🔹 Hackathon warrior 🏆 (multiple wins at state/national level)  
+🔹 Founder of **Student Tech Community** 🚀  
+🔹 Always chasing the next **cool project** ⚡  
 
 ---
 
-## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=palamurisaivamshi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palamurisaivamshi&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=palamurisaivamshi&theme=radical)  
+## 🛠️ Tech Playground  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,nextjs,java,python,c,php,angular,bootstrap,html,css,mysql,aws,firebase,git,github" />
+</p>
 
 ---
 
-## 🏗️ Featured Projects  
+## 📊 Stats Zone  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palamurisaivamshi&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palamurisaivamshi&theme=tokyonight" height="160"/>
+</p>
 
-- 🔗 **[SkillVerse – Decentralized Skill Exchange](#)**  
-  Algorand DApp for peer-to-peer skill trading with transparent ratings & secure transactions.  
-
-- 📦 **[Warehouse Management System (MERN)](#)**  
-  Full-stack inventory solution with real-time analytics & admin dashboards.  
-
-- 🎉 **[Event Management System](#)**  
-  Event discovery & booking platform with geo-filtering, secure payments & email alerts.  
-
-- 🙌 **[Swayamsevak Connect (MERN)](#)**  
-  Role-based web app for discovering & managing RSS shakhas, events, and seva projects.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palamurisaivamshi&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 🏆 Achievements  
-- 🥉 3rd Place – National Hackathon (College Level)  
-- 🏅 Top ranks in multiple **state/national hackathons**  
-- 👨‍💻 Contributor – **Social Summer of Code (SSOC) Season 4**  
+## 🚀 Highlight Projects  
+🔹 **SkillVerse** – Algorand DApp for peer-to-peer skill exchange  
+🔹 **Warehouse Management (MERN)** – Real-time inventory with analytics  
+🔹 **Event Management System** – Secure booking + geo-filters  
+🔹 **Swayamsevak Connect** – MERN app for community coordination  
 
 ---
 
-## 🎓 Certifications  
-- ☁️ AWS Certified Solutions Architect – Associate  
-- ⚛️ MERN Stack Development – Student Tribe  
-- ⛓ Blockchain Fundamentals – Algorand Foundation  
+## 🏆 Milestones & Achievements  
+- 🥉 **3rd Place** – National Hackathon  
+- 🏅 Top ranks at **multiple hackathons**  
+- 🌍 Contributor – **SSOC (Social Summer of Code)**  
+- 📜 **AWS Certified** + **Algorand Blockchain Certified**  
 
 ---
 
-## 🤝 Leadership & Volunteering  
-- 🚀 Founder & Lead – *Student Tech Community* (workshops + coding challenges)  
-- 🔗 Advisor – *Algorand Blockchain Club* (hands-on blockchain sessions)  
-- 🎤 Event Organizer – Collaborated with Microsoft Office for tech events  
+## 🎮 Fun Zone  
+- ⚡ I think of coding as PUBG matches – every project = new level 🎯  
+- ☕ Fueled by chai & late-night debugging sessions  
+- 🌱 Always in **build → break → learn → repeat** cycle  
 
 ---
 
-## 🐍 Fun & Dynamic  
-![Snake animation](https://github.com/palamurisaivamshi/palamurisaivamshi/blob/output/github-contribution-grid-snake.svg)  
+## 🐍 Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/palamurisaivamshi/palamurisaivamshi/output/github-contribution-grid-snake.svg)
 
 ---
 
-✨ _“Learn → Build → Share → Repeat”_ ✨  
+<!-- Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=120&section=footer)
