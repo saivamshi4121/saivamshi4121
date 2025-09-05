@@ -67,15 +67,17 @@
 
 ---
 
-## 🐍 Tech Snake Game
+## 🐍 Tech Snake
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Snake Game" width="500"/>
+  <!-- Snake path simulation with tech icons -->
+  <img src="https://raw.githubusercontent.com/palamurisaivamshi/palamurisaivamshi/output/github-contribution-grid-snake.svg" alt="Tech Snake" width="500"/>
 </p>
 
 <p align="center">
-💻 Collecting Techs: React 🟦 Node.js 🟩 Express.js ⬛ MongoDB 🟩 Next.js ⬛ JavaScript 🟨
+💻 Technologies: React 🟦 → Node.js 🟩 → Express.js ⬛ → MongoDB 🟩 → Next.js ⬛ → JavaScript 🟨
 </p>
+
 
 
 
