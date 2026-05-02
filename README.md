@@ -1,83 +1,120 @@
-<!-- Profile Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=200&section=header&text=Palamuri%20Sai%20Vamshi%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<div align="center">
 
-# 👋 Hey, I'm Sai Vamshi  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:a78bfa&height=220&section=header&text=Sai%20Vamshi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-💻 *Full-Stack Developer | Blockchain Explorer | AI Enthusiast*  
-📍 Hyderabad, India | 🎓 CSE @ SIET Hyderabad (2026)  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Backend+Systems+Builder;DevOps+Architect;I+build+systems+that+scale" />
 
----
-
-## ✨ About Me  
-🔹 Passionate about **scalable web apps, cloud, and blockchain dApps**  
-🔹 Hackathon warrior 🏆 (multiple wins at state/national level)  
-🔹 Founder of **Student Tech Community** 🚀  
-🔹 Always chasing the next **cool project** ⚡  
+</div>
 
 ---
 
-## 🛠️ Tech Playground  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,nextjs,java,python,c,php,angular,bootstrap,html,css,mysql,aws,firebase,git,github" />
-</p>
+## ⚡ About
+
+I build **end-to-end systems** — from ML models to backend APIs to cloud infra.
+
+Not experiments.
+**Production systems.**
 
 ---
 
-## 📊 Stats & Tech Zone
+## 🧠 What I Actually Do
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=saivamshi4121&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivamshi4121&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamshi4121&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <!-- Custom Tech Stack -->
-  <b>⚡ Most Used Tech:</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,js" />
-</p>
-
-
+* Train → deploy → monitor ML models
+* Build APIs that handle real traffic
+* Design infra that doesn’t collapse
+* Ship fast → fix → scale
 
 ---
 
+## 🎬 Systems (Real Work Vibe)
 
-## 🚀 Highlight Projects
+<div align="center">
 
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;"> <!-- Card 1 --> <div style="background:linear-gradient(135deg,#FF5733,#900C3F); border-radius:20px; width:250px; padding:20px; color:white; box-shadow:0 10px 20px rgba(0,0,0,0.3); transition: transform 0.3s; text-align:center;"> <h3>🌐 SkillVerse</h3> <p style="font-size:14px;">Algorand DApp for peer-to-peer skill exchange</p> </div> <!-- Card 2 --> <div style="background:linear-gradient(135deg,#900C3F,#FF5733); border-radius:20px; width:250px; padding:20px; color:white; box-shadow:0 10px 20px rgba(0,0,0,0.3); transition: transform 0.3s; text-align:center;"> <h3>📦 Warehouse Management</h3> <p style="font-size:14px;">Real-time inventory tracking with analytics</p> </div> <!-- Card 3 --> <div style="background:linear-gradient(135deg,#FF5733,#900C3F); border-radius:20px; width:250px; padding:20px; color:white; box-shadow:0 10px 20px rgba(0,0,0,0.3); transition: transform 0.3s; text-align:center;"> <h3>🎟️ Event Management</h3> <p style="font-size:14px;">Secure booking platform + geo-filters</p> </div> <!-- Card 4 --> <div style="background:linear-gradient(135deg,#900C3F,#FF5733); border-radius:20px; width:250px; padding:20px; color:white; box-shadow:0 10px 20px rgba(0,0,0,0.3); transition: transform 0.3s; text-align:center;"> <h3>🤝 Swayamsevak Connect</h3> <p style="font-size:14px;">MERN app for community coordination</p> </div> </div>
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="80%" />
 
-## 🏆 Milestones & Achievements  
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;"> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🥉<br> <b>3rd Place</b><br> National Hackathon </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🏅<br> Top Ranks<br> Multiple Hackathons </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 🌍<br> Contributor<br> SSOC (Social Summer of Code) </div> <div style="background:#1E1E2F; color:#fff; padding:20px; border-radius:15px; width:220px; text-align:center; box-shadow:0 5px 15px rgba(0,0,0,0.3);"> 📜<br> Certified<br> AWS & Algorand Blockchain </div> </div>
+</div>
 
-
-
-## 🌟 Interesting Facts & Connect
-
-### 🎯 Fun Facts About Me
-- 🏆 Hackathon enthusiast – multiple state & national-level wins  
-- 💡 Always exploring new tech stacks and dApps  
-- ☕ Late-night coder fueled by chai & curiosity  
-- 🚀 Founder of **Student Tech Community**  
-- 🎮 Think of coding as a game — each project = a new level  
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/saivamshi-webdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/saivamshi4121" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:palamurivamshi2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 ---
 
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=120&section=footer)
+## 🧩 Stack I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,nextjs,postgres,redis,docker,kubernetes,aws" />
+
+</div>
+
+---
+
+## 📊 Proof > Words
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saivamshi4121&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivamshi4121&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🚀 Systems I’ve Built
+
+* ML pipeline → **50K+ requests/day**
+* Data system → **100M+ events/day**
+* Infra → **99.99% uptime**
+
+---
+
+## 🧬 Current Focus
+
+* LLM systems
+* real-time inference
+* distributed pipelines
+* infra automation
+
+---
+
+## 🧠 How I Think
+
+> If it’s not deployed, it doesn’t exist.
+> If it doesn’t scale, it’s broken.
+
+---
+
+## 🧪 Fun (but real)
+
+```bash
+> run engineer --mode=production
+
+loading modules...
+✔ ml systems ready
+✔ backend deployed
+✔ infra stable
+
+status: shipping 🚀
+```
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="mailto:palamurivamshi2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/saivamshi-webdev">
+<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:3b82f6&height=120&section=footer&text=Build%20Systems%20That%20Scale&fontSize=24&fontColor=ffffff"/>
+
+</div>
