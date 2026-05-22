@@ -10,11 +10,23 @@
 
 ## ⚡ About
 
-I build **end-to-end systems** — from ML models to backend APIs to cloud infra.
+```bash
+> whoami
 
-Not experiments.
-**Production systems.**
+name:
+Sai Vamshi
 
+role:
+builder
+
+focus:
+AI systems
+backend architecture
+distributed infrastructure
+
+mission:
+build things that survive production
+```
 ---
 
 ## 🧠 What I Actually Do
@@ -26,24 +38,115 @@ Not experiments.
 
 ---
 
-## 🎬 Systems (Real Work Vibe)
+## ☁ Infrastructure Mode
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="80%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="85%"/>
+
+</div>
+---
+
+# 🧠 Systems I Build With
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+Python  
+Training • Inference • Pipelines
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,typescript"/>
+
+NodeJS • TS  
+APIs • Scaling
+
+</td>
+
+<td align="center" width="25%">
+
+### Data
+
+<img src="https://skillicons.dev/icons?i=postgres,redis"/>
+
+Postgres • Redis  
+Storage • Cache
+
+</td>
+
+<td align="center" width="25%">
+
+### Infra
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws"/>
+
+Docker • K8s • AWS  
+Deploy • Monitor
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧩 Stack I Use
+```bash
+> engineer --stack
+
+AI:
+██████████ Python
+
+Backend:
+█████████░ NodeJS
+█████████░ TypeScript
+████████░░ NextJS
+
+Database:
+██████████ PostgreSQL
+█████████░ Redis
+
+Infrastructure:
+██████████ Docker
+█████████░ Kubernetes
+████████░░ AWS
+
+status:
+building systems 🚀
+```
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,nodejs,nextjs,postgres,redis,docker,kubernetes,aws" />
+<img src="https://skillicons.dev/icons?i=
+python,
+typescript,
+nodejs,
+nextjs,
+postgres,
+redis,
+docker,
+kubernetes,
+aws,
+linux,
+git
+"/>
 
 </div>
-
 ---
 
 ## 📊 Proof > Words
