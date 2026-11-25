@@ -1,66 +1,57 @@
-# Sai Vamshi
-
-**I build web tools that help teams find information and spend less time on manual work.**
-
-Software engineer · Backend systems, web applications, and AI workflows
-
-![Engineering trace for OpsSage AI. An incident comes in, the service finds similar incidents, and the interface shows a suggested next step.](./assets/engineering-trace.svg)
-
-[Case files](#case-files) · [Project index](#project-index) · [Contact](#contact)
-
----
-
-## Case files
-
-<details open>
-<summary><strong>01 · OpsSage AI — Find the last incident that looked like this</strong></summary>
-
-On-call engineers can search past incidents and review suggested next steps in one place.
-
-**Inside the build** · The service combines keyword search with semantic similarity so it can find related incidents even when the wording changes.
-
-`Python` · `FastAPI` · `Redis` · `React` · [View source](https://github.com/saivamshi4121/opssage_ai)
-
-</details>
-<details>
-<summary><strong>02 · Support Triage Agent — When the model returns invalid data</strong></summary>
-
-The agent sorts support tickets and returns a usable result even when a model response fails validation.
-
-**Inside the build** · Validate the response, retry on failure, and return an explicit `unknown` category if the retry fails too.
-
-`TypeScript` · `Node.js` · `Zod` · `Claude` · [View source](https://github.com/saivamshi4121/Support-Triage-Agent)
-
-</details>
-<details>
-<summary><strong>03 · LearnOrbit — Go from course outline to student progress</strong></summary>
-
-Instructors can draft courses and quizzes, while students can discover lessons and track progress.
-
-**Inside the build** · BullMQ and Redis support background jobs in the Node.js backend.
-
-`Next.js` · `Express` · `PostgreSQL` · `BullMQ` · `Gemini` · [View source](https://github.com/saivamshi4121/learnorbit)
-
-</details>
-<details>
-<summary><strong>04 · Qrezo / QRify — Change the destination after printing</strong></summary>
-
-A dynamic QR code can point to a new destination after printing. Its dashboard also tracks scans by device and location.
-
-`Next.js` · `MongoDB` · `Cloudinary` · [View source](https://github.com/saivamshi4121/QRify)
-
-</details>
-
-## Project index
-
-- **Blockchain** · [SkillVerse Backend](https://github.com/saivamshi4121/skill-verse-backend) · [Algorand Python Assignment](https://github.com/saivamshi4121/algorand-python-coding-assignment)
-- **Developer tools and education** · [Node-Based Editor](https://github.com/saivamshi4121/Node-Based-Editor) · [ProjectPilot](https://github.com/saivamshi4121/ProjectPilot) · [StudyTrackr](https://github.com/saivamshi4121/StudyTrackr)
-- **Community and events** · [Swayamsevak Connect](https://github.com/saivamshi4121/swayamsevak_connect_frontend) · [TheEventzy](https://github.com/saivamshi4121/eventzy) · [Ambulance Alert System](https://github.com/saivamshi4121/AMBULANCE-PROJECT)
-- **More work** · [Portfolio source](https://github.com/saivamshi4121/vamshi_portfolio) · [All public repositories](https://github.com/saivamshi4121?tab=repositories)
-
-**Working with** · Python, TypeScript, JavaScript · FastAPI, Node.js, Express · React, Next.js · PostgreSQL, MongoDB, Redis  
-**Exploring** · How to measure whether an AI fallback helps and how to find related incidents when their descriptions differ.
-
-## Contact
-
-Building something around backend systems, developer tools, or AI workflows? [Connect on LinkedIn](https://linkedin.com/in/saivamshi-webdev) or [email me](mailto:palamurivamshi2005@gmail.com).
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="290" viewBox="0 0 880 290" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering trace · OpsSage AI</title>
+  <desc id="desc">An animated signal travels from incident report to search, similar incidents, and a suggested next step.</desc>
+  <defs>
+    <linearGradient id="panel" x2="100%" y2="100%">
+      <stop stop-color="#0a1321"/>
+      <stop offset="1" stop-color="#101d30"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#9fb8d4" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, Consolas, monospace; }
+    .signal { animation: travel 7s cubic-bezier(.4,0,.2,1) infinite; }
+    @keyframes travel {
+      0% { transform: translateX(0); opacity: 0; }
+      8% { transform: translateX(0); opacity: 1; }
+      27%, 34% { transform: translateX(215px); opacity: 1; }
+      53%, 60% { transform: translateX(430px); opacity: 1; }
+      80%, 91% { transform: translateX(645px); opacity: 1; }
+      100% { transform: translateX(645px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .signal { animation: none; display: none; }
+    }
+  </style>
+  <rect x="1" y="1" width="878" height="288" rx="22" fill="url(#panel)" stroke="#30445b"/>
+  <rect x="2" y="2" width="876" height="286" rx="21" fill="url(#grid)"/>
+  <path d="M36 60H844" stroke="#30445b"/>
+  <text x="38" y="39" fill="#89f4d4" font-size="19" letter-spacing="2">ENGINEERING TRACE</text>
+  <text x="842" y="39" fill="#b0c6df" font-size="19" text-anchor="end">OPSSAGE AI</text>
+  <text x="38" y="113" fill="#f2f7ff" font-size="38" font-weight="700">From alert to next action</text>
+  <path d="M116 179H761" stroke="#5acaad" stroke-width="2"/>
+  <g fill="#101d30" stroke="#89f4d4" stroke-width="2">
+    <circle cx="116" cy="179" r="7"/>
+    <circle cx="331" cy="179" r="7"/>
+    <circle cx="546" cy="179" r="7"/>
+    <circle cx="761" cy="179" r="7"/>
+  </g>
+  <g class="signal">
+    <circle cx="116" cy="179" r="18" fill="#89f4d4" opacity=".16"/>
+    <circle cx="116" cy="179" r="7" fill="#d2fff0"/>
+  </g>
+  <g fill="#f2f7ff" font-size="22" text-anchor="middle">
+    <text x="116" y="226">Incident</text>
+    <text x="331" y="226">Search</text>
+    <text x="546" y="226">Similar cases</text>
+    <text x="761" y="226">Next step</text>
+  </g>
+  <g fill="#b0c6df" font-size="17" text-anchor="middle">
+    <text x="116" y="253">Report arrives</text>
+    <text x="331" y="253">Match descriptions</text>
+    <text x="546" y="253">Surface history</text>
+    <text x="761" y="253">Review guidance</text>
+  </g>
+</svg>
