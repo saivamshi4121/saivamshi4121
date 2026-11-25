@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" role="img" aria-labelledby="title">
+<title id="title">Contact and collaboration</title>
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#86ebc0" stroke-opacity=".09"/></pattern>
+  <linearGradient id="surface"><stop stop-color="#0a1424"/><stop offset="1" stop-color="#14263a"/></linearGradient>
+</defs>
+<style>
+  .pulse { stroke-dasharray: 14 986; animation: travel 5s ease-in-out infinite; }
+  @keyframes travel { from { stroke-dashoffset: 0; opacity: 0; } 12%, 72% { opacity: 1; } to { stroke-dashoffset: -650; opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .pulse { display: none; animation: none; } }
+</style>
+<rect x="1" y="1" width="998" height="110" rx="21" fill="url(#surface)" stroke="#38516a"/>
+<rect x="2" y="2" width="996" height="108" rx="20" fill="url(#grid)"/>
+<path d="M657 78H761Q785 78 805 55T849 32H951" fill="none" stroke="#86ebc0" stroke-opacity=".37" stroke-width="2"/>
+<path class="pulse" d="M657 78H761Q785 78 805 55T849 32H951" fill="none" stroke="#86ebc0" stroke-width="5" stroke-linecap="round"/>
+<text x="42" y="39" font-family="monospace" font-size="19" fill="#86ebc0" letter-spacing="2">CONTACT</text>
+<text x="40" y="83" font-family="system-ui,sans-serif" font-size="43" font-weight="700" fill="#f2f7ff">Let’s connect</text>
+
+</svg>
