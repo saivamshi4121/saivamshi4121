@@ -1,16 +1,18 @@
 # Sai Vamshi
 
+![](https://raw.githubusercontent.com/saivamshi4121/saivamshi4121/5f05cd8d532c0e19d3c84cf37ec7ae349f12ecc2/assets/profile-header.svg)
+
 **I build web tools that help teams find information and spend less time on manual work.**
 
 Software engineer · Backend systems, web applications, and AI workflows
-
-![Engineering trace for OpsSage AI. An incident comes in, the service finds similar incidents, and the interface shows a suggested next step.](https://raw.githubusercontent.com/saivamshi4121/saivamshi4121/251ddb70f90d5afb45913c36ad7a37490cdce641/assets/engineering-trace.svg)
 
 [Case files](#case-files) · [Project index](#project-index) · [Contact](#contact)
 
 ---
 
 ## Case files
+
+![](https://raw.githubusercontent.com/saivamshi4121/saivamshi4121/37dd0fac6b276a3b6b36f2905eb17880bbffc0e2/assets/profile-case-files.svg)
 
 <details open>
 <summary><strong>01 · OpsSage AI — Find the last incident that looked like this</strong></summary>
@@ -53,6 +55,8 @@ A dynamic QR code can point to a new destination after printing. Its dashboard a
 
 ## Project index
 
+![](https://raw.githubusercontent.com/saivamshi4121/saivamshi4121/13fb43814d4ce976c8bd83ff3d3d6e0f98f901bb/assets/profile-project-index.svg)
+
 - **Blockchain** · [SkillVerse Backend](https://github.com/saivamshi4121/skill-verse-backend) · [Algorand Python Assignment](https://github.com/saivamshi4121/algorand-python-coding-assignment)
 - **Developer tools and education** · [Node-Based Editor](https://github.com/saivamshi4121/Node-Based-Editor) · [ProjectPilot](https://github.com/saivamshi4121/ProjectPilot) · [StudyTrackr](https://github.com/saivamshi4121/StudyTrackr)
 - **Community and events** · [Swayamsevak Connect](https://github.com/saivamshi4121/swayamsevak_connect_frontend) · [TheEventzy](https://github.com/saivamshi4121/eventzy) · [Ambulance Alert System](https://github.com/saivamshi4121/AMBULANCE-PROJECT)
@@ -62,5 +66,7 @@ A dynamic QR code can point to a new destination after printing. Its dashboard a
 **Exploring** · How to measure whether an AI fallback helps and how to find related incidents when their descriptions differ.
 
 ## Contact
+
+![](https://raw.githubusercontent.com/saivamshi4121/saivamshi4121/c289586f9adb029c782e07aac258f3c564e9125c/assets/profile-contact.svg)
 
 Building something around backend systems, developer tools, or AI workflows? [Connect on LinkedIn](https://linkedin.com/in/saivamshi-webdev) or [email me](mailto:palamurivamshi2005@gmail.com).
