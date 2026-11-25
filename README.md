@@ -4,51 +4,63 @@
 
 Software engineer · Backend systems, web applications, and AI workflows
 
-[Selected builds](#selected-builds) · [Project index](#project-index) · [Engineering notes](#engineering-notes) · [Contact](#contact)
+![Engineering trace for OpsSage AI. An incident comes in, the service finds similar incidents, and the interface shows a suggested next step.](./assets/engineering-trace.svg)
+
+[Case files](#case-files) · [Project index](#project-index) · [Contact](#contact)
 
 ---
 
-## What I do
+## Case files
 
-I build APIs, connect services, and develop the interfaces people use to get things done. My public projects cover incident response, education, community coordination, and blockchain integrations.
+<details open>
+<summary><strong>01 · OpsSage AI — Find the last incident that looked like this</strong></summary>
 
-## Selected builds
+On-call engineers can search past incidents and review suggested next steps in one place.
 
-**[OpsSage AI](https://github.com/saivamshi4121/opssage_ai)** — Helps on-call teams find similar incidents and review suggested next steps. `Python` · `FastAPI` · `Redis` · `React`
+**Inside the build** · The service combines keyword search with semantic similarity so it can find related incidents even when the wording changes.
 
-**[LearnOrbit](https://github.com/saivamshi4121/learnorbit)** — Helps instructors draft courses and quizzes and gives students a place to track progress. `Next.js` · `Express` · `PostgreSQL` · `Redis` · `Gemini`
+`Python` · `FastAPI` · `Redis` · `React` · [View source](https://github.com/saivamshi4121/opssage_ai)
 
-**[Qrezo / QRify](https://github.com/saivamshi4121/QRify)** — Lets teams update QR code destinations after printing and see how their codes are used. `Next.js` · `MongoDB` · `Cloudinary`
-
-**[SkillVerse Backend](https://github.com/saivamshi4121/skill-verse-backend)** — Gives apps an API for creating Algorand accounts, sending transactions, and managing digital assets. `Node.js` · `Express` · `Algorand SDK`
-
-## Project index
-
+</details>
 <details>
-<summary><strong>Explore more public projects</strong></summary>
+<summary><strong>02 · Support Triage Agent — When the model returns invalid data</strong></summary>
 
-- **AI and developer tools** · [Support Triage Agent](https://github.com/saivamshi4121/Support-Triage-Agent) · [Node-Based Editor](https://github.com/saivamshi4121/Node-Based-Editor)
-- **Education and peer learning** · [ProjectPilot](https://github.com/saivamshi4121/ProjectPilot) · [StudyTrackr](https://github.com/saivamshi4121/StudyTrackr) · [Skill Exchange](https://github.com/saivamshi4121/skill_exchange)
-- **Community and events** · [Swayamsevak Connect](https://github.com/saivamshi4121/swayamsevak_connect_frontend) · [TheEventzy](https://github.com/saivamshi4121/eventzy) · [Ambulance Alert System](https://github.com/saivamshi4121/AMBULANCE-PROJECT)
-- **Backend and blockchain** · [Warehouse Inventory](https://github.com/saivamshi4121/warehouse-inventory) · [Event Management API](https://github.com/saivamshi4121/event-management-backend) · [Algorand Python Assignment](https://github.com/saivamshi4121/algorand-python-coding-assignment)
+The agent sorts support tickets and returns a usable result even when a model response fails validation.
+
+**Inside the build** · Validate the response, retry on failure, and return an explicit `unknown` category if the retry fails too.
+
+`TypeScript` · `Node.js` · `Zod` · `Claude` · [View source](https://github.com/saivamshi4121/Support-Triage-Agent)
+
+</details>
+<details>
+<summary><strong>03 · LearnOrbit — Go from course outline to student progress</strong></summary>
+
+Instructors can draft courses and quizzes, while students can discover lessons and track progress.
+
+**Inside the build** · BullMQ and Redis support background jobs in the Node.js backend.
+
+`Next.js` · `Express` · `PostgreSQL` · `BullMQ` · `Gemini` · [View source](https://github.com/saivamshi4121/learnorbit)
+
+</details>
+<details>
+<summary><strong>04 · Qrezo / QRify — Change the destination after printing</strong></summary>
+
+A dynamic QR code can point to a new destination after printing. Its dashboard also tracks scans by device and location.
+
+`Next.js` · `MongoDB` · `Cloudinary` · [View source](https://github.com/saivamshi4121/QRify)
 
 </details>
 
-[Browse all public repositories →](https://github.com/saivamshi4121?tab=repositories)
+## Project index
 
-## Engineering notes
+- **Blockchain** · [SkillVerse Backend](https://github.com/saivamshi4121/skill-verse-backend) · [Algorand Python Assignment](https://github.com/saivamshi4121/algorand-python-coding-assignment)
+- **Developer tools and education** · [Node-Based Editor](https://github.com/saivamshi4121/Node-Based-Editor) · [ProjectPilot](https://github.com/saivamshi4121/ProjectPilot) · [StudyTrackr](https://github.com/saivamshi4121/StudyTrackr)
+- **Community and events** · [Swayamsevak Connect](https://github.com/saivamshi4121/swayamsevak_connect_frontend) · [TheEventzy](https://github.com/saivamshi4121/eventzy) · [Ambulance Alert System](https://github.com/saivamshi4121/AMBULANCE-PROJECT)
+- **More work** · [Portfolio source](https://github.com/saivamshi4121/vamshi_portfolio) · [All public repositories](https://github.com/saivamshi4121?tab=repositories)
 
-> **An invalid reply still needs a valid outcome.** In the Support Triage Agent, I validate the model response, retry when it fails, and return an explicit `unknown` category if the retry fails too.
-
-I'm exploring how to evaluate those fallbacks and make search more useful when teams investigate incidents.
-
-## Tech stack
-
-- **Languages** · Python, TypeScript, JavaScript
-- **Backend** · FastAPI, Node.js, Express
-- **Frontend** · React, Next.js, Tailwind CSS
-- **Data and background jobs** · PostgreSQL, MongoDB, Redis, BullMQ
+**Working with** · Python, TypeScript, JavaScript · FastAPI, Node.js, Express · React, Next.js · PostgreSQL, MongoDB, Redis  
+**Exploring** · How to measure whether an AI fallback helps and how to find related incidents when their descriptions differ.
 
 ## Contact
 
-Working on backend systems, developer tools, or AI workflows? [Connect on LinkedIn](https://linkedin.com/in/saivamshi-webdev) or [email me](mailto:palamurivamshi2005@gmail.com). [Portfolio source](https://github.com/saivamshi4121/vamshi_portfolio)
+Building something around backend systems, developer tools, or AI workflows? [Connect on LinkedIn](https://linkedin.com/in/saivamshi-webdev) or [email me](mailto:palamurivamshi2005@gmail.com).
