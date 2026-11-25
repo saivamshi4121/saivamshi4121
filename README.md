@@ -1,259 +1,54 @@
-<div align="center">
+# Sai Vamshi
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:06b6d4,50:8b5cf6,100:22c55e&text=Sai%20Vamshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+**I build web tools that help teams find information and spend less time on manual work.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=1000&lines=Building+Products+Instead+of+Portfolios;Turning+Random+Ideas+Into+Software;AI+Systems+%7C+Startups+%7C+Infrastructure;Ship.+Break.+Fix.+Repeat."/>
+Software engineer · Backend systems, web applications, and AI workflows
 
-</div>
-
----
-
-# ~/whoami
-
-```bash
-$ whoami
-
-Sai Vamshi
-
-builder
-product hacker
-system designer
-
-I like building things that start as
-"this might be a stupid idea..."
-
-and end up helping real people.
-```
+[Selected builds](#selected-builds) · [Project index](#project-index) · [Engineering notes](#engineering-notes) · [Contact](#contact)
 
 ---
 
-# ~/currently
+## What I do
 
-```bash
-STATUS: ONLINE
+I build APIs, connect services, and develop the interfaces people use to get things done. My public projects cover incident response, education, community coordination, and blockchain integrations.
 
-FOCUS:
-├── AI Products
-├── Startup Experiments
-├── Distributed Systems
-├── Automation
-└── Learning Faster Than Yesterday
+## Selected builds
 
-UPTIME:
-24/7 except when debugging production
-```
+**[OpsSage AI](https://github.com/saivamshi4121/opssage_ai)** — Helps on-call teams find similar incidents and review suggested next steps. `Python` · `FastAPI` · `Redis` · `React`
 
----
+**[LearnOrbit](https://github.com/saivamshi4121/learnorbit)** — Helps instructors draft courses and quizzes and gives students a place to track progress. `Next.js` · `Express` · `PostgreSQL` · `Redis` · `Gemini`
 
-# ~/featured-products
+**[Qrezo / QRify](https://github.com/saivamshi4121/QRify)** — Lets teams update QR code destinations after printing and see how their codes are used. `Next.js` · `MongoDB` · `Cloudinary`
 
-## ⚡ QRify
+**[SkillVerse Backend](https://github.com/saivamshi4121/skill-verse-backend)** — Gives apps an API for creating Algorand accounts, sending transactions, and managing digital assets. `Node.js` · `Express` · `Algorand SDK`
 
-> Generate beautiful QR experiences.
+## Project index
 
-<a href="https://github.com/saivamshi4121/QRify">
-<img src="https://raw.githubusercontent.com/saivamshi4121/assets/main/qrify-banner.png"/>
-</a>
+<details>
+<summary><strong>Explore more public projects</strong></summary>
 
-### Highlights
+- **AI and developer tools** · [Support Triage Agent](https://github.com/saivamshi4121/Support-Triage-Agent) · [Node-Based Editor](https://github.com/saivamshi4121/Node-Based-Editor)
+- **Education and peer learning** · [ProjectPilot](https://github.com/saivamshi4121/ProjectPilot) · [StudyTrackr](https://github.com/saivamshi4121/StudyTrackr) · [Skill Exchange](https://github.com/saivamshi4121/skill_exchange)
+- **Community and events** · [Swayamsevak Connect](https://github.com/saivamshi4121/swayamsevak_connect_frontend) · [TheEventzy](https://github.com/saivamshi4121/eventzy) · [Ambulance Alert System](https://github.com/saivamshi4121/AMBULANCE-PROJECT)
+- **Backend and blockchain** · [Warehouse Inventory](https://github.com/saivamshi4121/warehouse-inventory) · [Event Management API](https://github.com/saivamshi4121/event-management-backend) · [Algorand Python Assignment](https://github.com/saivamshi4121/algorand-python-coding-assignment)
 
-```txt
-✓ Custom QR Generation
-✓ Fast & Lightweight
-✓ Modern UI
-✓ Mobile Friendly
-```
+</details>
 
-**Repository**
+[Browse all public repositories →](https://github.com/saivamshi4121?tab=repositories)
 
-https://github.com/saivamshi4121/QRify
+## Engineering notes
 
----
+> **An invalid reply still needs a valid outcome.** In the Support Triage Agent, I validate the model response, retry when it fails, and return an explicit `unknown` category if the retry fails too.
 
-## 🧠 LearnOrbit
+I'm exploring how to evaluate those fallbacks and make search more useful when teams investigate incidents.
 
-> Learning should feel like navigation, not confusion.
+## Tech stack
 
-<a href="https://github.com/saivamshi4121/learnorbit">
-<img src="https://raw.githubusercontent.com/saivamshi4121/assets/main/learnorbit-banner.png"/>
-</a>
+- **Languages** · Python, TypeScript, JavaScript
+- **Backend** · FastAPI, Node.js, Express
+- **Frontend** · React, Next.js, Tailwind CSS
+- **Data and background jobs** · PostgreSQL, MongoDB, Redis, BullMQ
 
-### Highlights
+## Contact
 
-```txt
-✓ Learning Roadmaps
-✓ Structured Resources
-✓ Skill Development
-✓ Progress Tracking
-```
-
-**Repository**
-
-https://github.com/saivamshi4121/learnorbit
-
----
-
-## 🤝 Swayamsevak Connect
-
-> Community coordination platform.
-
-<a href="https://github.com/saivamshi4121/swayamsevak_connect_frontend">
-<img src="https://raw.githubusercontent.com/saivamshi4121/assets/main/swayamsevak-banner.png"/>
-</a>
-
-### Highlights
-
-```txt
-✓ Community Engagement
-✓ Event Coordination
-✓ Volunteer Management
-✓ Scalable Architecture
-```
-
-**Repository**
-
-https://github.com/saivamshi4121/swayamsevak_connect_frontend
-
----
-
-# ~/mission
-
-```bash
-Build 100 products.
-
-Fail fast.
-
-Learn faster.
-
-Find the one that changes everything.
-```
-
----
-
-# ~/tech
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,nextjs,react,postgres,mongodb,redis,docker,kubernetes,aws,linux,git"/>
-
-</div>
-
----
-
-# ~/operating-principles
-
-```txt
-1. Ship before perfect.
-
-2. Infrastructure is a feature.
-
-3. Users are the roadmap.
-
-4. Consistency beats motivation.
-
-5. Ideas are worthless without execution.
-```
-
----
-
-# ~/build-log
-
-```txt
-2026
-├── Building AI systems
-├── Exploring autonomous agents
-├── Scaling products
-└── Automating everything possible
-
-2025
-├── QRify
-├── LearnOrbit
-├── Community Platforms
-└── Backend Infrastructure
-
-2024
-├── Learning
-├── Experimenting
-└── Shipping
-```
-
----
-
-# ~/github
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saivamshi4121&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saivamshi4121&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivamshi4121&theme=tokyo-night"/>
-
-</div>
-
----
-
-# ~/experiments
-
-```txt
-AI Agents
-Workflow Automation
-Startup Research
-Learning Platforms
-Productivity Systems
-Developer Tools
-Community Software
-Anything Interesting
-```
-
----
-
-# ~/idea-graveyard
-
-```bash
-startup_generator.exe
-
-viral_app_predictor.py
-
-overnight_success.sh
-
-STATUS:
-failed
-
-LESSONS:
-valuable
-```
-
----
-
-# ~/contact
-
-<div align="center">
-
-<a href="mailto:palamurivamshi2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/saivamshi-webdev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/saivamshi4121">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# Build. Launch. Learn. Repeat.
-
-### See a problem → Build a solution.
-
-</div>
+Working on backend systems, developer tools, or AI workflows? [Connect on LinkedIn](https://linkedin.com/in/saivamshi-webdev) or [email me](mailto:palamurivamshi2005@gmail.com). [Portfolio source](https://github.com/saivamshi4121/vamshi_portfolio)
