@@ -4,7 +4,7 @@
 
 Software engineer · Backend systems, web applications, and AI workflows
 
-![Engineering trace for OpsSage AI. An incident comes in, the service finds similar incidents, and the interface shows a suggested next step.](./assets/engineering-trace.svg)
+![Engineering trace for OpsSage AI. An incident comes in, the service finds similar incidents, and the interface shows a suggested next step.](https://raw.githubusercontent.com/saivamshi4121/saivamshi4121/251ddb70f90d5afb45913c36ad7a37490cdce641/assets/engineering-trace.svg)
 
 [Case files](#case-files) · [Project index](#project-index) · [Contact](#contact)
 
